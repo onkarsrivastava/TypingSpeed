@@ -1,0 +1,42 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+}
+
+.App {
+  margin-top: 50px;
+}
+
+.sentence {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 60%;
+  height: 100px;
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.results {
+  margin-top: 20px;
+}
